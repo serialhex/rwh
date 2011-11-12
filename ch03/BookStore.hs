@@ -10,3 +10,6 @@ myInfo = Book 9780135072455 "Algebra of Programming"
 
 data BookReview = BookReview BookInfo CustomerID String
 
+bookID      (Book id title authors) = id
+bookTitle   (Book id title authors) = title
+bookAuthors (Book id title authors) = authors
