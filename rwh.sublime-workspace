@@ -16,10 +16,36 @@
 			}
 		},
 		{
+			"file": "ch03/AlgebraicVector.hs",
+			"settings":
+			{
+				"buffer_size": 259,
+				"line_ending": "Unix",
+				"name": "-- file: ch03/AlgebraicVector.hs"
+			}
+		},
+		{
 			"file": "ch03/Tree.hs",
 			"settings":
 			{
 				"buffer_size": 439,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ch03/ShapeUnion.hs",
+			"settings":
+			{
+				"buffer_size": 120,
+				"line_ending": "Unix",
+				"name": "-- file: ch03/ShapeUnion.hs"
+			}
+		},
+		{
+			"file": "/home/serialhex/Documents/work/active health therapy/thing.xml",
+			"settings":
+			{
+				"buffer_size": 16840991,
 				"line_ending": "Unix"
 			}
 		}
@@ -167,6 +193,7 @@
 	"groups":
 	[
 		{
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -199,6 +226,33 @@
 				},
 				{
 					"buffer": 1,
+					"file": "ch03/AlgebraicVector.hs",
+					"settings":
+					{
+						"buffer_size": 259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								259,
+								259
+							]
+						],
+						"settings":
+						{
+							"auto_name": "-- file: ch03/AlgebraicVector.hs",
+							"syntax": "Packages/Haskell/Haskell.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "ch03/Tree.hs",
 					"settings":
 					{
@@ -216,6 +270,59 @@
 						"settings":
 						{
 							"syntax": "Packages/Haskell/Haskell.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ch03/ShapeUnion.hs",
+					"settings":
+					{
+						"buffer_size": 120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"auto_name": "-- file: ch03/ShapeUnion.hs",
+							"syntax": "Packages/Haskell/Haskell.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/serialhex/Documents/work/active health therapy/thing.xml",
+					"settings":
+					{
+						"buffer_size": 16840991,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1107,
+								1107
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -278,7 +385,7 @@
 		],
 		"width": 0.0
 	},
-	"show_minimap": false,
+	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
