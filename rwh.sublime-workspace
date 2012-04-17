@@ -3,50 +3,63 @@
 	{
 		"selected_items":
 		[
+			[
+				"in",
+				"intersperse"
+			],
+			[
+				"from",
+				"fromIntegral"
+			],
+			[
+				"num",
+				"numElms"
+			],
+			[
+				"No",
+				"Nothing"
+			],
+			[
+				"May",
+				"MaybeTree"
+			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "ch03/BookStore.hs",
+			"file": "ch04/InteractWith.hs",
 			"settings":
 			{
-				"buffer_size": 1553,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "ch03/AlgebraicVector.hs",
-			"settings":
-			{
-				"buffer_size": 259,
+				"buffer_size": 555,
 				"line_ending": "Unix",
-				"name": "-- file: ch03/AlgebraicVector.hs"
+				"name": "-- file: ch04/InteractWith.hs"
 			}
 		},
 		{
-			"file": "ch03/Tree.hs",
+			"file": "ch04/SplitLines.hs",
 			"settings":
 			{
-				"buffer_size": 439,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "ch03/ShapeUnion.hs",
-			"settings":
-			{
-				"buffer_size": 120,
+				"buffer_size": 413,
 				"line_ending": "Unix",
-				"name": "-- file: ch03/ShapeUnion.hs"
+				"name": "-- file: ch04/SplitLines.hs"
 			}
 		},
 		{
-			"file": "/home/serialhex/Documents/work/active health therapy/thing.xml",
+			"file": "ch04/FixLines.hs",
 			"settings":
 			{
-				"buffer_size": 16840991,
+				"buffer_size": 961,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ch04/Plus.hs",
+			"settings":
+			{
+				"buffer_size": 198,
+				"line_ending": "Unix",
+				"name": "-- file: ch04/Plus.hs"
 			}
 		}
 	],
@@ -75,11 +88,19 @@
 	"file_history":
 	[
 		"/home/serialhex/.config/sublime-text-2/Packages/User/Haskell.sublime-settings",
-		"/home/serialhex/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
-		"/home/serialhex/src/rwh/ch03/Lending.hs",
-		"/home/serialhex/src/rwh/ch03/Nullable.hs",
-		"/home/serialhex/src/rwh/ch03/ListADT.hs",
+		"/home/serialhex/src/rwh/ch03/Exercises.hs",
 		"/home/serialhex/src/rwh/ch03/MySecond.hs",
+		"/home/serialhex/src/rwh/ch03/Tree.hs",
+		"/home/serialhex/src/rwh/ch03/Lending.hs",
+		"/home/serialhex/src/rwh/ch03/AlgebraicVector.hs",
+		"/home/serialhex/src/rwh/ch03/BookStore.hs",
+		"/home/serialhex/src/rwh/ch03/ShapeUnion.hs",
+		"/home/serialhex/src/rwh/ch03/ListADT.hs",
+		"/home/serialhex/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/serialhex/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/serialhex/Documents/work/active health therapy/thing.xml",
+		"/home/serialhex/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+		"/home/serialhex/src/rwh/ch03/Nullable.hs",
 		"/home/serialhex/src/rwh/ch03/BadPattern.hs",
 		"/home/serialhex/.config/sublime-text-2/Packages/Default/Base File.sublime-settings",
 		"/home/serialhex/src/rwh/ch01/WC.hs",
@@ -160,7 +181,7 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -174,6 +195,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"MyNode",
 			"c"
 		],
 		"highlight": true,
@@ -182,6 +204,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"Node2",
 			"i"
 		],
 		"reverse": false,
@@ -193,30 +216,29 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "ch03/BookStore.hs",
+					"file": "ch04/InteractWith.hs",
 					"settings":
 					{
-						"buffer_size": 1553,
+						"buffer_size": 555,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1073,
-								1073
+								0,
+								555
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Haskell/Haskell.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"auto_name": "-- file: ch04/InteractWith.hs",
+							"syntax": "Packages/Haskell/Haskell.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -226,23 +248,23 @@
 				},
 				{
 					"buffer": 1,
-					"file": "ch03/AlgebraicVector.hs",
+					"file": "ch04/SplitLines.hs",
 					"settings":
 					{
-						"buffer_size": 259,
+						"buffer_size": 413,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								259,
-								259
+								0,
+								413
 							]
 						],
 						"settings":
 						{
-							"auto_name": "-- file: ch03/AlgebraicVector.hs",
+							"auto_name": "-- file: ch04/SplitLines.hs",
 							"syntax": "Packages/Haskell/Haskell.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -253,18 +275,18 @@
 				},
 				{
 					"buffer": 2,
-					"file": "ch03/Tree.hs",
+					"file": "ch04/FixLines.hs",
 					"settings":
 					{
-						"buffer_size": 439,
+						"buffer_size": 961,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								232,
-								232
+								961,
+								961
 							]
 						],
 						"settings":
@@ -279,50 +301,24 @@
 				},
 				{
 					"buffer": 3,
-					"file": "ch03/ShapeUnion.hs",
+					"file": "ch04/Plus.hs",
 					"settings":
 					{
-						"buffer_size": 120,
+						"buffer_size": 198,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								120,
-								120
+								198,
+								198
 							]
 						],
 						"settings":
 						{
-							"auto_name": "-- file: ch03/ShapeUnion.hs",
+							"auto_name": "-- file: ch04/Plus.hs",
 							"syntax": "Packages/Haskell/Haskell.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/home/serialhex/Documents/work/active health therapy/thing.xml",
-					"settings":
-					{
-						"buffer_size": 16840991,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1107,
-								1107
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/XML/XML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -364,6 +360,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
 	"replace":
 	{
 		"height": 62.0
