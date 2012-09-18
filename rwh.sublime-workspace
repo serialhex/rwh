@@ -40,7 +40,7 @@
 			"file": "ch04/SplitLines.hs",
 			"settings":
 			{
-				"buffer_size": 413,
+				"buffer_size": 414,
 				"line_ending": "Unix",
 				"name": "-- file: ch04/SplitLines.hs"
 			}
@@ -60,6 +60,14 @@
 				"buffer_size": 198,
 				"line_ending": "Unix",
 				"name": "-- file: ch04/Plus.hs"
+			}
+		},
+		{
+			"file": "ch04/IntParse.hs",
+			"settings":
+			{
+				"buffer_size": 265,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -87,6 +95,7 @@
 	},
 	"file_history":
 	[
+		"/home/serialhex/src/rwh/rwh.sublime-project",
 		"/home/serialhex/.config/sublime-text-2/Packages/User/Haskell.sublime-settings",
 		"/home/serialhex/src/rwh/ch03/Exercises.hs",
 		"/home/serialhex/src/rwh/ch03/MySecond.hs",
@@ -216,7 +225,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -231,8 +240,8 @@
 						"selection":
 						[
 							[
-								0,
-								555
+								318,
+								318
 							]
 						],
 						"settings":
@@ -251,15 +260,15 @@
 					"file": "ch04/SplitLines.hs",
 					"settings":
 					{
-						"buffer_size": 413,
+						"buffer_size": 414,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								413
+								414,
+								414
 							]
 						],
 						"settings":
@@ -291,7 +300,9 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Haskell/Haskell.tmLanguage"
+							"syntax": "Packages/Haskell/Haskell.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -311,13 +322,39 @@
 						"selection":
 						[
 							[
-								198,
-								198
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"auto_name": "-- file: ch04/Plus.hs",
+							"syntax": "Packages/Haskell/Haskell.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "ch04/IntParse.hs",
+					"settings":
+					{
+						"buffer_size": 265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								265
+							]
+						],
+						"settings":
+						{
 							"syntax": "Packages/Haskell/Haskell.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -360,10 +397,6 @@
 		]
 	},
 	"menu_visible": true,
-	"output.exec":
-	{
-		"height": 100.0
-	},
 	"replace":
 	{
 		"height": 62.0
@@ -389,6 +422,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 186.0,
+	"side_bar_width": 181.0,
 	"status_bar_visible": true
 }
